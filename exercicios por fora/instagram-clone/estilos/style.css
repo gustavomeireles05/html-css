@@ -28,7 +28,7 @@ nav a {
 main {
   display: flex;
   flex-direction: column;
-  max-width: 500px;
+  max-width: 450px;
   margin: 0 auto;
   padding: 20px 10px;
 }
@@ -67,13 +67,14 @@ main {
 }
 
 .post-header {
-  padding: 10px;
+  padding: 20px;
   font-weight: bold;
 }
 
 .post img {
   width: 100%;
   display: block;
+  height: 500px;
 }
 
 .post-actions {
